@@ -3,11 +3,11 @@
 # Evil-Droid Framework . version 0.3
 # Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platform
 # 
-#                  Created By Mascerano Bachir .
-#                 Website: http://www.dev-labs.co
-#           YTB : https://www.youtube.com/c/mascerano%20bachir  
-#        FCB : https://www.facebook.com/kali.linux.pentesting.tutorials
-#Speciak thanks to : MrPedroubuntu , Kader Achraf , youcef yahia and Mohammed Yacine
+#                  Created By alvinbaby .
+#                 Website: https://bit.ly/3MMrG8g
+#           YTB :  https://bit.ly/3pSnvho
+#        TELE : https://t.me/MrJinnTelegram
+#Speciak thanks to : MR JINN , Kader Achraf , youcef yahia and Mohammed Yacine
 #
 # this is an open source tool if you want to modify or add something . Please give me a copy.
 
@@ -244,7 +244,7 @@ echo -e $lightgreen "             MMMMM   MMMMM           "
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             .MMM.   .MMM.           " 
-echo -e $lightgreen "     Mascerano Bachir - Dev-labs     "                                 
+echo -e $lightgreen "            alvinbaby - Dev-labs     "                                 
 }
 #function lhost
 function get_lhost() 
@@ -715,13 +715,13 @@ start=$(zenity --question --title="☢ Evil-Droid Framework ☢" --text "Execute
   else
     clear
     echo ""
-    echo -e $lightgreen "╔──────────────────────────────────────────────╗"
-    echo -e $lightgreen "|           Author: Mascerano Bachir           |"
+    echo -e $lightgreen "╔───────────────────────────────────────╗"
+    echo -e $lightgreen "|           Author: alvinbaby                  |"
     echo -e $lightgreen "|    Evil-Droid Framework $ver - Dev-labs.co   |"
-    echo -e $lightgreen "|   Credits to : MrPedroubuntu , Kader Achraf  |"
+    echo -e $lightgreen "|   Credits to : MR JINN , Kader Achraf        |"
     echo -e $lightgreen "|               , youcef yahia                 |"
     echo -e $lightgreen "|              and Mohammed Yacine             |"
-    echo -e $lightgreen "┖──────────────────────────────────────────────┙"
+    echo -e $lightgreen "┖───────────────────────────────────────┙"
     echo ""
     apache_svc_stop
     postgresql_stop
@@ -736,10 +736,10 @@ function main()
 
         print_ascii_art
         echo -e $green ""
-        echo "╔──────────────────────────────────────────────╗"
+        echo "╔───────────────────────────────────────╗"
         echo "|          Evil-Droid Framework $ver           |"
         echo "|      Hack & Remote android plateform         |"
-        echo "┖──────────────────────────────────────────────┙"
+        echo "┖───────────────────────────────────────┙"
         echo "[1] APK MSF                                     "
         echo "[2] BACKDOOR APK ORIGINAL (OLD)                 "
         echo "[3] BACKDOOR APK ORIGINAL (NEW)                 "
